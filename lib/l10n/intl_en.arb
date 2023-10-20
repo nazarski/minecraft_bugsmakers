@@ -1,0 +1,16 @@
+{
+  "@@locale": "en",
+  "title": "Flutter Example App",
+  "rateUs": "Please rate the app",
+  "rate": "Rate",
+  "rateUsAppStore": "Rate us on AppStore!",
+  "lets": "LET'S",
+  "explore": "Explore",
+  "newMods": "NEW MODS",
+  "modsAwesome": "Explore awesome Minecraft mods! Our vast selection of mods will enhance your gaming experience. Quickly find the best mods for your playstyle with our easy search feature. Play Minecraft with new adventures today!",
+  "letsGo": "LET’S GO!",
+  "likeThisApp": "Like this app",
+  "privacy": "Privacy Policy",
+  "instruction": "Instructions"
+
+}

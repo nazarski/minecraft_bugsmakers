@@ -1,0 +1,860 @@
+[
+  {
+    "title": "Vehicle",
+    "mods": [
+      {
+        "title": "McLaren 720s",
+        "description": "McLaren 720s mod adds a new racing car to Minecraft. The McLaren 720s has been added in 7 standard color options: the famous orange, as well as black, white, red, yellow, mint, light green and the LM variant.  It combines the features of the iconic McLaren F1, as well as some elements of the P1. The model is very detailed and has animations.",
+        "preview": "api/minecraft-mods/images/id1.jpg",
+        "howToUse": "",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id1/mclaren-720s.mcaddon"
+          }
+        ],
+        "is_vip": true,
+        "id": 1
+      },
+      {
+        "title": "Bicyclecraft",
+        "description": "Bicyclecraft adds 3 unique bikes with different characteristics that you can create on the workbench in survival!",
+        "preview": "api/minecraft-mods/images/id2.jpg",
+        "howToUse": "",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id2/bicyclesv1.mcaddon"
+          }
+        ],
+        "is_vip": true,
+        "id": 2
+      },
+      {
+        "title": "Mercedes Benz G Wagon",
+        "description": "The most advanced and luxurious SUV \"G Wagon\" from Mercedes-Benz is now in your world Minecraft! Its other names are Helik or Gelendvagen. The Hyundai has become very popular in Russia. With mod Mercedes Benz G Wagon you can feel like a real rich man.",
+        "preview": "api/minecraft-mods/images/id3.jpg",
+        "howToUse": "api/minecraft-mods/images/id3_instr.jpg",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id3/gwagon-bp.mcpack"
+          },
+          {
+            "type": "Texture",
+            "path": "api/minecraft-mods/mods/id3/gwagon-rp.mcpack"
+          }
+        ],
+        "is_vip": true,
+        "id": 3
+      },
+      {
+        "title": "Ural 4320",
+        "description": "With this mod, Minecraft will have a popular Soviet-Russian truck in four variants, which you can drive",
+        "preview": "api/minecraft-mods/images/id4.jpg",
+        "howToUse": "api/minecraft-mods/images/id4_instr.jpg",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id4/ural4320.mcpack"
+          },
+          {
+            "type": "Texture",
+            "path": "api/minecraft-mods/mods/id4/ural4320r.mcpack"
+          }
+        ],
+        "is_vip": true,
+        "id": 4
+      },
+      {
+        "title": "The Mining Driller 9000",
+        "description": "If you want to mine ores faster, then a pickaxe is not the best way for this process, but then what to choose? A great question to which there is a universal answer is a new machine called Driller 9000 with mod The Mining Driller 9000.\n",
+        "preview": "api/minecraft-mods/images/id5.jpg",
+        "howToUse": "api/minecraft-mods/images/id5_instr.jpg",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id5/the-mining-driller-9000-b.mcpack"
+          },
+          {
+            "type": "Texture",
+            "path": "api/minecraft-mods/mods/id5/the-mining-driller-9000-r.mcpack"
+          }
+        ],
+        "is_vip": true,
+        "id": 5
+      },
+      {
+        "title": "M1A2 Abrams Tank",
+        "description": "Do you like tanks? Are you familiar with the M1A2 Abrams tank ? Introducing the most realistic mod for MCPE with a fully animated tank M1A2, custom sounds and tank parts!",
+        "preview": "api/minecraft-mods/images/id6.jpg",
+        "howToUse": "api/minecraft-mods/images/id6_instr.jpg",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id6/m1a2_abrams_by_bmheades.mcaddon"
+          }
+        ],
+        "is_vip": true,
+        "id": 6
+      },
+      {
+        "title": "PUBG Vehicles Addon",
+        "description": "This addon adds some of the famous vehicles from the game Battle Royale PlayerUnknown's BattleGrounds or PUBG. The mod PUBG Vehicles is ideal for large PvP maps, especially for Battle Royale maps available for Minecraft PE (Bedrock Edition).",
+        "preview": "api/minecraft-mods/images/id7.jpg",
+        "howToUse": "",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id7/pubg-b.mcpack"
+          },
+          {
+            "type": "Texture",
+            "path": "api/minecraft-mods/mods/id7/pubg-r.mcpack"
+          }
+        ],
+        "is_vip": true,
+        "id": 7
+      },
+      {
+        "title": "War Plane",
+        "description": "Modification War Plane will add incredibly realistic fighters to Minecraft Pocket Edition, which you can use for various combat operations! \n\nThe aircraft itself is based on the famous Supermarine Spitfire - a British fighter of the Second World War. Thanks to this mod You will be able to eliminate enemies in MCPE from the air!",
+        "preview": "api/minecraft-mods/images/id8.jpg",
+        "howToUse": "api/minecraft-mods/images/id8_instr.jpg",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "war-plane-behavior-pack.mcpack"
+          },
+          {
+            "type": "Yellow plane",
+            "path": "api/minecraft-mods/mods/id8/war-plane-yellow-resource-pack.mcpack"
+          },
+          {
+            "type": "Green plane",
+            "path": "api/minecraft-mods/mods/id8/war-plane-green-resource-pack.mcpack"
+          },
+          {
+            "type": "Blue plane",
+            "path": "api/minecraft-mods/mods/id8/war-plane-blue-resource-pack.mcpack"
+          }
+        ],
+        "is_vip": true,
+        "id": 8
+      },
+      {
+        "title": "Train",
+        "description": "Mod Train will add to Minecraft Pocket Edition a fully functional train that will ride on rails. You can use the train to move around the game world on your own MCPE, but the train also allows you to transport resources in a special chest. Train detailing looks very cool and I hope that in the future the developer will add more features",
+        "preview": "api/minecraft-mods/images/id9.jpg",
+        "howToUse": "api/minecraft-mods/images/id9_instr.jpg",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id9/train-behaviors.mcpack"
+          },
+          {
+            "type": "Texture",
+            "path": "api/minecraft-mods/mods/id9/train-resources.mcpack"
+          }
+        ],
+        "is_vip": true,
+        "id": 9
+      },
+      {
+        "title": "Police Car",
+        "description": "Mod Police Car will allow you to get your own police car and try out the life of a cop in Minecraft Pocket Edition. The car looks very realistic and it is based on an American police car. The car also has siren sounds that turn on randomly when you get into the car.",
+        "preview": "api/minecraft-mods/images/id10.jpg",
+        "howToUse": "api/minecraft-mods/images/id10_instr.jpg",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id10/police-car-behavior-pack.mcpack"
+          },
+          {
+            "type": "Texture",
+            "path": "api/minecraft-mods/mods/id10/police-car-resource-pack.mcpack"
+          }
+        ],
+        "is_vip": true,
+        "id": 10
+      }
+    ]
+  },
+  {
+    "title": "Zombies",
+    "mods": [
+      {
+        "title": "ZomB Apocalypse",
+        "description": "Zombie Apocalypse will pump Zombies and Drowned People in Minecraft. They will become much smarter and more dangerous. Thanks to this, survival in the game will become much more interesting!",
+        "preview": "api/minecraft-mods/images/id11.jpg",
+        "howToUse": "",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id11/zomb-apocalypse-bp.mcaddon"
+          },
+          {
+            "type": "Texture",
+            "path": "api/minecraft-mods/mods/id11/zomb-apocalypse-rp.mcaddon"
+          }
+        ],
+        "is_vip": true,
+        "id": 11
+      },
+      {
+        "title": "The Frosted Expansion Pack",
+        "description": "Mod The Frosted Expansion Pack is based on the addition Creeping Winter to the game Minecraft Dungeons and adds a real frosty adventure in which new monsters, items are waiting for you, structures, changes in biomes and many other things that were not previously in MCPE",
+        "preview": "api/minecraft-mods/images/id12.jpg",
+        "howToUse": "api/minecraft-mods/images/id12_instr.gif",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id12/the-frosted-expansion-pack.mcaddon"
+          }
+        ],
+        "is_vip": true,
+        "id": 12
+      },
+      {
+        "title": "The Cursed Biome",
+        "description": "Do you want to see in your worlds Minecraft PE a new and unique biome so that you and your friends can challenge new creatures? The Cursed Biome mod adds a unique biome to the game, with new features, mobs and much more!\n\nYou need to enable all experiments in the world settings.",
+        "preview": "api/minecraft-mods/images/id13.jpg",
+        "howToUse": "",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id13/the-cursed-biome-addon_1616457194447.mcaddon"
+          }
+        ],
+        "is_vip": true,
+        "id": 13
+      },
+      {
+        "title": "Zombie Apocalypse",
+        "description": "Mod Zombie Apocalypse will significantly complicate your survival in Minecraft Pocket Edition. Hostile mobs like zombies will now become much stronger and faster, and they will no longer be affected by sunlight! This means that even in the daytime, zombies will now walk quietly.",
+        "preview": "api/minecraft-mods/images/id14.jpg",
+        "howToUse": "",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id14/zombie-apocalypse-v2-behavior-pack.mcpack"
+          },
+          {
+            "type": "Texture",
+            "path": "api/minecraft-mods/mods/id14/zombie-apocalypse-v2-resource-pack.mcpack"
+          }
+        ],
+        "is_vip": true,
+        "id": 14
+      },
+      {
+        "title": "Undeadcraft",
+        "description": "Don't you think zombies are too stupid and easy to defeat? What happens if they become a little or very smart? Mod Undeadcraft was just created to find out! Now zombies and scum in the game will gain intelligence and will be able to do various actions, complicating the survival of the player. In addition, their models and animations have been improved.",
+        "preview": "api/minecraft-mods/images/id15.jpg",
+        "howToUse": "",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id15/undeacraft-r-beta-1_0.mcpack"
+          },
+          {
+            "type": "Texture",
+            "path": "api/minecraft-mods/mods/id15/undeacraft-b-beta-1_0.mcpack"
+          }
+        ],
+        "is_vip": true,
+        "id": 15
+      }
+    ]
+  },
+  {
+    "title": "Dragons",
+    "mods": [
+      {
+        "title": "Dark Dragon",
+        "description": "Many players want to be able to tame or create their own dragon. Once upon a time, developers wanted to add this feature. Alas, this is not yet in Minecraft. Nevertheless, with the help of various addons, you can expand the possibilities of the game.\n",
+        "preview": "api/minecraft-mods/images/id16.jpg",
+        "howToUse": "api/minecraft-mods/images/id16_instr.jpg",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id16/darkdragon.mcaddon"
+          }
+        ],
+        "is_vip": true,
+        "id": 16
+      },
+      {
+        "title": "Mowzie's Mobs",
+        "description": "Mod Mowzie's Mobs for Minecraft PE is a port of the same mod from Minecraft: Java Edition. With this addon, new creatures and mobs will appear in the game world that will create an amazing atmosphere, you will also be able to fight them to get new items, but remember that some of them are very strong!",
+        "preview": "api/minecraft-mods/images/id17.jpg",
+        "howToUse": "",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id17/coded-unofficial-mowzies-mobs-v1_6.mcaddon"
+          }
+        ],
+        "is_vip": true,
+        "id": 17
+      },
+      {
+        "title": "Dragons of the Third Age - The First Key",
+        "description": "Dragons of the Third Age will take you on a new journey. You will be able to create a special island on which there will be a Dragon egg. Hurry up to tame him before he flies off to his native land.",
+        "preview": "api/minecraft-mods/images/id18.jpg",
+        "howToUse": "api/minecraft-mods/images/id18_instr.jpg",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id18/dragons3rd_v1.mcaddon"
+          }
+        ],
+        "is_vip": true,
+        "id": 18
+      },
+      {
+        "title": "Dragon Mounts 2",
+        "description": "Updated beta version of Dragon Mounts 2! Almost a year has passed since the release of the first version of the addon Dragon Mounts for MCPE and it's time to update it beyond recognition! However, this update is only a beta version and does not contain all the dragons. Every next update will add a new dragon and many other interesting features, so stay tuned for news and updates of this mod! But still, despite the beta version, the addon adds a lot of new things, for example, a new dimension, a new dungeon and much more!",
+        "preview": "api/minecraft-mods/images/id19.jpg",
+        "howToUse": "api/minecraft-mods/images/id19_instr.jpg",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id19/dm2refurbishedbeta4.mcaddon"
+          }
+        ],
+        "is_vip": true,
+        "id": 19
+      },
+      {
+        "title": "Reign of Dragons",
+        "description": "Reign of Dragons brings in Minecraft PE a little fantasy and dragon mechanics. With this addon, you will be able to find nests, steal eggs and kill dragons, and then create your own fire and ice dragons. You will be able to fight wild dragons on equal terms, thanks to Valyrian steel.",
+        "preview": "api/minecraft-mods/images/id20.jpg",
+        "howToUse": "",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id20/reignofdragonsb.mcpack"
+          },
+          {
+            "type": "Texture",
+            "path": "api/minecraft-mods/mods/id20/reignofdragonsr.mcpack"
+          }
+        ],
+        "is_vip": true,
+        "id": 20
+      },
+      {
+        "title": "Prehistoric Life",
+        "description": "Prehistoric Life is a add-on designed for those who love dinosaurs, with the possibility of taming.",
+        "preview": "api/minecraft-mods/images/id21.jpg",
+        "howToUse": "",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id21/prehistoric-life-b-small-update-2_9_2.mcpack"
+          },
+          {
+            "type": "Texture",
+            "path": "api/minecraft-mods/mods/id21/prehistoric-life-r-small-update-2_9_2.mcpack"
+          },
+          {
+            "type": "Map",
+            "path": "api/minecraft-mods/mods/id21/prehistoric-park-by-doctor-joker.mcworld"
+          }
+        ],
+        "is_vip": true,
+        "id": 21
+      }
+    ]
+  },
+  {
+    "title": "New features",
+    "mods": [
+      {
+        "title": "Economy",
+        "description": "This mod will add money, bank cards, an unlimited number of electronic accounts to the game, transfer funds from your card to a friend's card, as well as blocks for interacting with money.",
+        "preview": "api/minecraft-mods/images/id22.jpg",
+        "howToUse": "api/minecraft-mods/images/id22_instr.gif",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id22/wecon_addon.mcaddon"
+          }
+        ],
+        "is_vip": true,
+        "id": 22
+      },
+      {
+        "title": "Cyclone Mecha",
+        "description": "This mod will add a Combat Mech Robot to your Minecraft world that can be controlled. Various techniques and skills of the robot will be useful for fighting mobs because you can use it in survival",
+        "preview": "api/minecraft-mods/images/id23.jpg",
+        "howToUse": "api/minecraft-mods/images/id23_instr.jpg",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id23/cyclone-mecha.mcaddon"
+          }
+        ],
+        "is_vip": true,
+        "id": 23
+      },
+      {
+        "title": "Mystic Land",
+        "description": "Mod Mystic Land will add more ancient mythology to Minecraft PE. Mermaids, sirens and jellyfish will appear, as well as new items that will allow you to explore the world with new interest.",
+        "preview": "api/minecraft-mods/images/id24.jpg",
+        "howToUse": "",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id24/mystic_land_bp.mcpack"
+          },
+          {
+            "type": "Texture",
+            "path": "api/minecraft-mods/mods/id24/mystic_land_rp.mcpack"
+          }
+        ],
+        "is_vip": true,
+        "id": 24
+      },
+      {
+        "title": "Missile And TNT",
+        "description": "Mod Missile And TNT Addon adds 20 new missiles and TNT blocks to Minecraft. All of them are functional and have unique behavior.\n\nEnable the experiment features to use this addon.",
+        "preview": "api/minecraft-mods/images/id25.jpg",
+        "howToUse": "api/minecraft-mods/images/id25_instr.gif",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id25/missile-and-tnt-addon-v5-b.mcaddon"
+          },
+          {
+            "type": "Texture",
+            "path": "api/minecraft-mods/mods/id25/missile-and-tnt-addon-v5-r.mcaddon"
+          }
+        ],
+        "is_vip": true,
+        "id": 25
+      },
+      {
+        "title": "Fire Extinguisher",
+        "description": "Fire Extinguisher adds a working fire extinguisher to Minecraft. You no longer have to put out the fire with buckets of water, and the mod is also perfect for role-playing games, mini-games or just survival.",
+        "preview": "api/minecraft-mods/images/id26.gif",
+        "howToUse": "api/minecraft-mods/images/id26_instr.jpg",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id26/fireextinguisherbp.mcpack"
+          },
+          {
+            "type": "Texture",
+            "path": "api/minecraft-mods/mods/id26/fireextinguisherrp.mcpack"
+          }
+        ],
+        "is_vip": true,
+        "id": 26
+      },
+      {
+        "title": "Ghost Rider",
+        "description": "Do you adore Ghost Rider? Have you watched all the films, do you know his whole story, but is there something else missing? While we are waiting for him to return to the cinema, you can try out the mod Ghost Rider. This addon adds Carter Slade, motorcycles, Fire Horse and much more to the game!\n\nBefore using the add-on, enable the experiment functions.",
+        "preview": "api/minecraft-mods/images/id27.jpg",
+        "howToUse": "api/minecraft-mods/images/id27_instr.gif",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id27/ghost-rider-behaviorpack.mcpack"
+          },
+          {
+            "type": "Texture",
+            "path": "api/minecraft-mods/mods/id27/ghost-rider-texturepack.mcpack"
+          }
+        ],
+        "is_vip": true,
+        "id": 27
+      },
+      {
+        "title": "Moon Knight",
+        "description": "Are you a fan of the Marvel universe? Do you adore the Moon Knight and have already watched the new series? Now you can try the eponymous mod Moon Knight, which adds the ability to transform into a popular character to the game",
+        "preview": "api/minecraft-mods/images/id28.jpg",
+        "howToUse": "api/minecraft-mods/images/id28_instr.gif",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id28/moon-knight-b.mcaddon"
+          },
+          {
+            "type": "Texture",
+            "path": "api/minecraft-mods/mods/id28/moon-knight-r.mcaddon"
+          }
+        ],
+        "is_vip": true,
+        "id": 28
+      },
+      {
+        "title": "F1 and F8 Buttons",
+        "description": "Mod F1 and F8 Buttons adds two new buttons to Minecraft: F1 and F8. This is useful for players on mobile devices and there is no need to constantly go into settings!",
+        "preview": "api/minecraft-mods/images/id29.jpg",
+        "howToUse": "",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id29/f1_and_f8.mcpack"
+          }
+        ],
+        "is_vip": true,
+        "id": 29
+      },
+      {
+        "title": "Fast Miner",
+        "description": "Mod Fast Miner somewhat resembles TreeCapitator, but it is much deeper and allows you to extract various resources faster, not just wood. With it, you can quickly mine ores, wheat, amethysts and much more.",
+        "preview": "api/minecraft-mods/images/id30.jpg",
+        "howToUse": "",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id30/fast-miner-v1_0_2.mcpack"
+          },
+          {
+            "type": "Texture",
+            "path": "api/minecraft-mods/mods/id30/fast-miner-v1_0_2.mcaddon"
+          }
+        ],
+        "is_vip": true,
+        "id": 30
+      },
+      {
+        "title": "Bundles",
+        "description": "The bundles were supposed to appear in Minecraft 1.17, but the developers had to postpone them indefinitely. More recently, players have discovered a new feature in Minecraft, thanks to which you can try out the bags now.",
+        "preview": "api/minecraft-mods/images/id31.jpg",
+        "howToUse": "api/minecraft-mods/images/id31_instr.jpg",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id31/bundles.mcaddon"
+          }
+        ],
+        "is_vip": true,
+        "id": 31
+      },
+      {
+        "title": "Enderite",
+        "description": "Don't you think that the dimension End in Minecraft is too empty and there are few interesting things available in it that could be explored and used for survival? Mod Enderite was created to fix this problem and add a lot of new things to the End — new structures, blocks, items, mobs and much more!",
+        "preview": "api/minecraft-mods/images/id32.jpg",
+        "howToUse": "api/minecraft-mods/images/id32_instr.gif",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id32/enderiteaddon-v1_7-bp.mcpack"
+          },
+          {
+            "type": "Texture",
+            "path": "api/minecraft-mods/mods/id32/enderiteaddon-v1_7-rp.mcpack"
+          }
+        ],
+        "is_vip": true,
+        "id": 32
+      },
+      {
+        "title": "Space Craft",
+        "description": "Mod Space Craft will add a lot of new structures, decorative blocks, new mobs, recipes and much more. The purpose of this add-on is to in Minecraft PE This addon adds new structures, decorative blocks, entities, crafting blocks and more. The goal of this addon is to make Minecraft have more things about space, such as working rockets, steel, more crafting tables and much more! The next update will add new rockets and a lunar dimension. Enjoy the addon!",
+        "preview": "api/minecraft-mods/images/id33.jpg",
+        "howToUse": "",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id33/spacecraft-addon-0_8.mcaddon"
+          }
+        ],
+        "is_vip": true,
+        "id": 33
+      },
+      {
+        "title": "Mermaid Craft",
+        "description": "Thanks to the Mermaid Craft mod, all players will have an opportunity that they may have dreamed of for a long time. Now, each player will be able to turn into a mermaid. This is very convenient, because additionally the player will be able to breathe underwater, get night vision and be able to swim faster. ",
+        "preview": "api/minecraft-mods/images/id34.jpg",
+        "howToUse": "",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id33/mermaidtails.mcaddon"
+          }
+        ],
+        "is_vip": true,
+        "id": 34
+      },
+      {
+        "title": "Griffin Plus",
+        "description": "The Griffin Plus mod will add a piece of the Harry Potter universe to the game , new varieties of flying creatures called Griffins and Hippogriffs will appear. On them, you can fly around the world Minecraft PE, and each creature has its model and abilities.",
+        "preview": "api/minecraft-mods/images/id35.jpg",
+        "howToUse": "api/minecraft-mods/images/id35_instr.jpg",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id33/griffin_plus_behavior_pack.mcpack"
+          },
+          {
+            "type": "Texture",
+            "path": "api/minecraft-mods/mods/id33/griffin_plus_resource_pack.mcpack"
+          }
+        ],
+        "is_vip": true,
+        "id": 35
+      }
+    ]
+  },
+  {
+    "title": "Spider Mods",
+    "mods": [
+      {
+        "title": "No Way Home",
+        "description": "Big power is big responsibility. I hope you've already watched the new Spider-Man: No Way Home movie trailer and are ready to become Spider-Man in Minecraft. The Spider-Man No Way Home mod will allow you to not only become one of the Spider-Man species, but also other characters from the movie universe.",
+        "preview": "api/minecraft-mods/images/id36.jpg",
+        "howToUse": "",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id36/no_way_home.mcaddon"
+          }
+        ],
+        "is_vip": true,
+        "id": 36
+      },
+      {
+        "title": "Spider-Man",
+        "description": "With the Spider-Man mod in Mynecraft Bedrock, oddly enough, Spider-Man will appear. Spider-Man is one of the most famous heroes of the Marvel comics, which has a long storyline. The mod also adds some villains who were once Spider-Man's worst enemies.",
+        "preview": "api/minecraft-mods/images/id37.jpg",
+        "howToUse": "",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id37/spider_man.mcaddon"
+          }
+        ],
+        "is_vip": true,
+        "id": 37
+      },
+      {
+        "title": "Spider Man Addon V4",
+        "description": "With the Spider-Man mod in Mynecraft Bedrock, oddly enough, Spider-Man will appear. Spider-Man is one of the most famous heroes of the Marvel comics, which has a long storyline. The mod also adds some villains who were once Spider-Man's worst enemies.",
+        "preview": "api/minecraft-mods/images/id38.jpg",
+        "howToUse": "",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id38/spider_man.mcaddon"
+          }
+        ],
+        "is_vip": true,
+        "id": 38
+      },
+      {
+        "title": "SpiderMan: Into The CraftingVerse",
+        "description": "The SpiderMan: Into The CraftingVerse mod will open the door to the SpiderMan universe in Minecraft PE. You'll be able to try on all kinds of costumes and fight super-villains. There will also be various characters from the universe you'll be able to interact with. And lastly, you'll get access to the boss weapons.",
+        "preview": "api/minecraft-mods/images/id39.jpg",
+        "howToUse": "",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id39/spiderverse-texturepack.mcpack"
+          },
+          {
+            "type": "Texture",
+            "path": "api/minecraft-mods/mods/id39/spiderverse-behaviorpack.mcpack"
+          }
+        ],
+        "is_vip": true,
+        "id": 39
+      },
+      {
+        "title": "No Way Home 3",
+        "description": "The movie `Spider-Man: No Way Home` amazed absolutely everyone. The creation deservedly collects millions of views and as many dollars at the box office. And we publish already the third version of the addition for Minecraft Bedrock with spiders. The Minecraft Spider-Man: No Way Home 3 mod includes not only three kinds of Spider-Man, but also all his friends and enemies from this movie.",
+        "preview": "api/minecraft-mods/images/id40.jpg",
+        "howToUse": "",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id40/no_way_home_3.mcaddon"
+          }
+        ],
+        "is_vip": true,
+        "id": 40
+      },
+      {
+        "title": "No Way Home 2",
+        "description": "A new Spider-Man movie is about to be released in cinemas. To prepare for this event, you need to add characters from the movie in Minecraft. To do this, you can apply the Spider-Man No Way Home 2 mod. The build adds all the Spider-Men, costumes, main villains and many weapons. Don't forget to watch the movie itself in theaters.",
+        "preview": "api/minecraft-mods/images/id41.jpg",
+        "howToUse": "",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id40/no_way_home_2.mcaddon"
+          }
+        ],
+        "is_vip": true,
+        "id": 41
+      }
+    ]
+  },
+  {
+    "title": "Other",
+    "mods": [
+      {
+        "title": "Oceanite",
+        "description": "Have you wanted to explore the seabed for a long time or observe the marine inhabitants? This mod will give you this opportunity! The addon adds oceanic materials to the game.",
+        "preview": "api/minecraft-mods/images/id42.jpg",
+        "howToUse": "",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id42/oceanite-bp-v1_0.mcpack"
+          },
+          {
+            "type": "Textures",
+            "path": "api/minecraft-mods/mods/id42/oceanite-rp-v1_0.mcpack"
+          }
+        ],
+        "is_vip": true,
+        "id": 42
+      },
+      {
+        "title": "Poppy Playtime 2",
+        "description": "On October 12, 2021, the computer game Poppy Playtime was released. This game immediately gained popularity, the players paid special attention to the character of Huggy Wuggy. If you are a fan of this game, then you will definitely like this eponymous one!\n",
+        "preview": "api/minecraft-mods/images/id43.gif",
+        "howToUse": "",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id43/poppy_playtime_addon_by_bendythedemon18_v1_2.mcaddon"
+          }
+        ],
+        "is_vip": true,
+        "id": 43
+      },
+      {
+        "title": "Working TV",
+        "description": "With a working TV, life in Minecraft will become more fun! Install a massive TV with various channels and smooth graphics in your home to relax a little after a hard day at MCPE!",
+        "preview": "api/minecraft-mods/images/id44.jpg",
+        "howToUse": "",
+        "modsPath": [
+          {
+            "type": "Mod One",
+            "path": "api/minecraft-mods/mods/id44/workingtv_rp_1_0_6.mcpack"
+          },
+          {
+            "type": "Mod Two",
+            "path": "api/minecraft-mods/mods/id44/workingtv_bp_1_0_6.mcpack"
+          },
+          {
+            "type": "Texture",
+            "path": "api/minecraft-mods/mods/id44/workingtv_addon_1_0_6.mcaddon"
+          }
+        ],
+        "is_vip": true,
+        "id": 44
+      },
+      {
+        "title": "Working TV",
+        "description": "With a working TV, life in Minecraft will become more fun! Install a massive TV with various channels and smooth graphics in your home to relax a little after a hard day at MCPE!",
+        "preview": "api/minecraft-mods/images/id45.jpg",
+        "howToUse": "api/minecraft-mods/images/id45_instr.jpg",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id45/ih_v2_0_bp.mcpack"
+          },
+          {
+            "type": "Texture",
+            "path": "api/minecraft-mods/mods/id45/ih_v2_0_rp.mcpack"
+          }
+        ],
+        "is_vip": true,
+        "id": 45
+      },
+      {
+        "title": "Assassins Creed",
+        "description": "Mod Assassin's Creed adds items and equipment from the famous Assassin's Creed game to Minecraft. There are no items from any one part of the franchise here. The addon contains items from different parts!",
+        "preview": "api/minecraft-mods/images/id46.jpg",
+        "howToUse": "",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id46/assassins-creed-bp.mcpack"
+          },
+          {
+            "type": "Texture",
+            "path": "api/minecraft-mods/mods/id46/assassins-creed-rp.mcpack"
+          }
+        ],
+        "is_vip": true,
+        "id": 46
+      },
+      {
+        "title": "Happy Xmas",
+        "description": "The addon allows you to arrange a New Year's atmosphere in your world Minecraft! Make yourself a New Year's tank and shoot New Year's gifts from it, or take a ride on a futuristic sleigh and have fun with your friends! Well, that's the New Year's tank, which, instead of destroying, gives gifts because the New Year is a time of miracles!",
+        "preview": "api/minecraft-mods/images/id47.jpg",
+        "howToUse": "",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id47/ih_v2_0_bp.mcpack"
+          },
+          {
+            "type": "Texture",
+            "path": "api/minecraft-mods/mods/id47/ih_v2_0_rp.mcpack"
+          }
+        ],
+        "is_vip": true,
+        "id": 47
+      },
+      {
+        "title": "Christmas Decorations",
+        "description": "This addon adds Christmas decorations to Minecraft. Thanks to this, you will be able to decorate your world and create a New Year's atmosphere! Each block also has animation sounds, which makes the addition more atmospheric!",
+        "preview": "api/minecraft-mods/images/id48.jpg",
+        "howToUse": "",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id48/ih_v2_0_bp.mcpack"
+          },
+          {
+            "type": "Texture",
+            "path": "api/minecraft-mods/mods/id48/ih_v2_0_rp.mcpack"
+          }
+        ],
+        "is_vip": true,
+        "id": 48
+      },
+      {
+        "title": "Total Carnage",
+        "description": "Total Carnage is aimed at adding 212 new mobs, and new bosses will also appear! All of them are unique and elaborated. Each mob appears in a specific biome.\n",
+        "preview": "api/minecraft-mods/images/id49.jpg",
+        "howToUse": "",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id49/total-carnage-dat.mcpack"
+          },
+          {
+            "type": "Texture",
+            "path": "api/minecraft-mods/mods/id49/total-carnage-res.mcpack"
+          }
+        ],
+        "is_vip": true,
+        "id": 49
+      },
+      {
+        "title": "Stranger Things Addon",
+        "description": "Most recently, the fourth season of the popular TV series Stranger Things was released. If you also love this universe, you definitely need to try out this mod.\n\nWhen you create a world, you will automatically appear in a world called the Backside. The mod simply changes the Overworld without adding new biomes.",
+        "preview": "api/minecraft-mods/images/id50.jpg",
+        "howToUse": "",
+        "modsPath": [
+          {
+            "type": "Mod",
+            "path": "api/minecraft-mods/mods/id50/stranger-things-upside-down-world-addon.mcaddon"
+          }
+        ],
+        "is_vip": true,
+        "id": 50
+      }
+    ]
+  }
+]
