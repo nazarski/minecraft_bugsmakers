@@ -1,5 +1,4 @@
 class AppLinks {
   AppLinks._();
-  static const String apiSource = 'http://pidruchniky.com'
-      '.ua/';
+  static const String apiSource = 'https://play-mods.fun/minecraft/';
 }

@@ -1,4 +1,5 @@
 import 'package:minecraft_bugsmakers/models/download_model.dart';
+import 'package:minecraft_bugsmakers/models/how_to_use_item_model.dart';
 import 'package:minecraft_bugsmakers/resources/app_links.dart';
 
 class ModModel {
@@ -6,7 +7,7 @@ class ModModel {
   final String title;
   final String description;
   final String preview;
-  final String howToUse;
+  final List<HowToUseItemModel> howToUse;
   final bool isVip;
   final List<DownloadModel> modsPath;
 
@@ -17,7 +18,7 @@ class ModModel {
     required this.preview,
     required this.howToUse,
     required this.modsPath,
-    required this.isVip,
+    this.isVip = false,
   });
 
   factory ModModel.fromMap(Map<String, dynamic> map) {
@@ -26,12 +27,15 @@ class ModModel {
       title: map['title'] as String,
       description: map['description'] as String,
       preview: AppLinks.apiSource + map['preview'],
-      howToUse: map['howToUse'] as String,
-      isVip: map['is_vip'] as bool,
-      modsPath:( map['modsPath'] as List<dynamic>).map((e) {
-        final DownloadModel model = DownloadModel.fromMap(e);
-        return model;
-      }).toList(),
+      howToUse: (map['howToUse'] as List<dynamic>)
+          .map((e) => HowToUseItemModel
+          .fromMap(e))
+          .toList(),
+      isVip: map['is_vip'] ??= false,
+      modsPath: (map['modsPath'] as List<dynamic>)
+          .map((e) => DownloadModel
+          .fromMap(e))
+          .toList(),
     );
   }
 }
