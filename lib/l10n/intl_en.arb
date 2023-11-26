@@ -11,6 +11,9 @@
   "letsGo": "LET’S GO!",
   "likeThisApp": "Like this app",
   "privacy": "Privacy Policy",
-  "instruction": "Instructions"
-
+  "instruction": "Instructions",
+  "download": "Download",
+  "progress": "Progress...",
+  "open": "Open",
+  "failed": "Failed"
 }

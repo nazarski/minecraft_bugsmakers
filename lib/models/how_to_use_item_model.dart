@@ -15,7 +15,7 @@ class HowToUseItemModel {
     return HowToUseItemModel(
       description: map['description'] as String?,
       image: map['image'] != null ? AppLinks.apiSource + map['image'] : null,
-      instructions: map['instructions'] as String?,
+      instructions: map['instruction'] as String?,
     );
   }
 }

@@ -39,61 +39,60 @@ class ModPage extends StatelessWidget {
             repeat: ImageRepeat.repeat,
           ),
         ),
-        child: SingleChildScrollView(
-          child: Column(
-            children: [
-              CachedNetworkImage(
-                imageUrl: mod.preview,
-                height: 320.h,
-                fit: BoxFit.cover,
-              ),
-              Padding(
-                padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 24),
-                child: Container(
-                  padding: const EdgeInsets.all(12),
-                  decoration: BoxDecoration(
-                    borderRadius: const BorderRadius.all(
-                      Radius.circular(36),
-                    ),
-                    color: Colors.white.withOpacity(.9),
+        child: ListView(
+          padding: EdgeInsets.zero,
+          children: [
+            CachedNetworkImage(
+              imageUrl: mod.preview,
+              height: 320.h,
+              fit: BoxFit.cover,
+            ),
+            Padding(
+              padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 24),
+              child: Container(
+                padding: const EdgeInsets.all(12),
+                decoration: BoxDecoration(
+                  borderRadius: const BorderRadius.all(
+                    Radius.circular(36),
                   ),
-                  child: Column(
-                    children: [
-                      SizedBox(
-                        height: 24.h,
-                      ),
-                      Text(
-                        mod.title,
-                        style: AppStyles.bungee.copyWith(fontSize: 24),
-                        textAlign: TextAlign.center,
-                      ),
-                      SizedBox(
-                        height: 24.h,
-                      ),
-                      Text(
-                        mod.description,
-                        style: AppStyles.poppinsBlack,
-                        textAlign: TextAlign.center,
-                      ),
-                      SizedBox(
-                        height: 24.h,
-                      ),
-                      if (mod.howToUse.isNotEmpty)
-                        ...List.generate(mod.howToUse.length, (index) {
-                          return HowToUseItemWidget(howToUse: mod.howToUse[index]);
-                        }),
-                      ...List.generate(mod.modsPath.length, (index) {
-                        return DownloadItem(
-                          downloadModel: mod.modsPath[index],
-                          isShow: index.isEven,
-                        );
-                      })
-                    ],
-                  ),
+                  color: Colors.white.withOpacity(.9),
                 ),
-              )
-            ],
-          ),
+                child: Column(
+                  children: [
+                    SizedBox(
+                      height: 24.h,
+                    ),
+                    Text(
+                      mod.title,
+                      style: AppStyles.bungee.copyWith(fontSize: 24),
+                      textAlign: TextAlign.center,
+                    ),
+                    SizedBox(
+                      height: 24.h,
+                    ),
+                    Text(
+                      mod.description,
+                      style: AppStyles.poppinsBlack,
+                      textAlign: TextAlign.center,
+                    ),
+                    SizedBox(
+                      height: 24.h,
+                    ),
+                    if (mod.howToUse.isNotEmpty)
+                      ...List.generate(mod.howToUse.length, (index) {
+                        return HowToUseItemWidget(howToUse: mod.howToUse[index]);
+                      }),
+                    ...List.generate(mod.modsPath.length, (index) {
+                      return DownloadItem(
+                        downloadModel: mod.modsPath[index],
+                        isShow: index.isEven,
+                      );
+                    })
+                  ],
+                ),
+              ),
+            )
+          ],
         ),
       ),
     );

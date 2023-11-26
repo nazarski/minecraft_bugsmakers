@@ -22,7 +22,9 @@ class MessageLookup extends MessageLookupByLibrary {
 
   final messages = _notInlinedMessages(_notInlinedMessages);
   static Map<String, Function> _notInlinedMessages(_) => <String, Function>{
+        "download": MessageLookupByLibrary.simpleMessage("Download"),
         "explore": MessageLookupByLibrary.simpleMessage("Explore"),
+        "failed": MessageLookupByLibrary.simpleMessage("Failed"),
         "instruction": MessageLookupByLibrary.simpleMessage("Instructions"),
         "lets": MessageLookupByLibrary.simpleMessage("LET\'S"),
         "letsGo": MessageLookupByLibrary.simpleMessage("LET’S GO!"),
@@ -30,7 +32,9 @@ class MessageLookup extends MessageLookupByLibrary {
         "modsAwesome": MessageLookupByLibrary.simpleMessage(
             "Explore awesome Minecraft mods! Our vast selection of mods will enhance your gaming experience. Quickly find the best mods for your playstyle with our easy search feature. Play Minecraft with new adventures today!"),
         "newMods": MessageLookupByLibrary.simpleMessage("NEW MODS"),
+        "open": MessageLookupByLibrary.simpleMessage("Open"),
         "privacy": MessageLookupByLibrary.simpleMessage("Privacy Policy"),
+        "progress": MessageLookupByLibrary.simpleMessage("Progress..."),
         "rate": MessageLookupByLibrary.simpleMessage("Rate"),
         "rateUs": MessageLookupByLibrary.simpleMessage("Please rate the app"),
         "rateUsAppStore":
